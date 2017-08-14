@@ -2072,7 +2072,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 150%;
+			border-radius: 100%;
 		}
 
 			.image.avatar:before {
